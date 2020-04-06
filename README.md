@@ -1,3 +1,6 @@
 = ComDev WWW Site =
 
-Community development site, Pelican + Markdown
+Experimenting for the Community development site, Pelican + Markdown
+
+**This is not currently used** - 
+the current website content is at https://github.com/apache/comdev-site/ instead!
